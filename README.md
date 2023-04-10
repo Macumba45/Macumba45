@@ -11,8 +11,8 @@
 <h3>🌮ℹ️ A Little About Me ℹ️🌮</h3>
 <p>
 
-Hello! I am Gonzalo.<br>
-  I would like to introduce myself as a Junior Full Stack Developer with a great learning capacity. I have experience developing web applications using technologies such as JavaScript,HTML, CSS & frameworks such as React. I also have experience developing back-end applications using languages ​​like Node.js, & frameworks such as Express & Docker.<br>
+Hello! I am Gonzalo.<br><br>
+  I would like to introduce myself as a Junior Full Stack Developer with a great learning capacity. I have experience developing web applications using technologies such as JavaScript,HTML, CSS & frameworks such as React. I also have experience developing back-end applications using languages ​​like Node.js, & frameworks such as Express & Docker.<br><br>
 I am always looking for new challenges to continue growing professionally and I am willing to work as a team and collaborate with my co-workers to achieve the company's goals. My focus is always to provide high quality service and meet customer expectations. I am sure that my experience and skills would be of great benefit to your company.
 </p>
 
