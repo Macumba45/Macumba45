@@ -1,7 +1,7 @@
 
 <div style="margin-left: auto !important; margin-right: auto !important;">
   <div style="margin-left: auto !important; margin-right: auto !important;">
-   <img src="https://i.ibb.co/XJNKLtZ/icons8-dev-512.png" style="border-radius: 25px;" width="100"/>
+   <img src="https://i.ibb.co/DQMpmy8/icons8-dev-512.png" style="border-radius: 25px;" width="100"/>
   </div>
   <div style="margin-left: auto !important; margin-right: auto !important;">
     <h1>Hey! Nice to see you.</h1>
